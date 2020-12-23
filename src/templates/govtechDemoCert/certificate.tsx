@@ -6,7 +6,7 @@ import "./common/demoStyles.css";
 import { TemplateProps } from "@govtechsg/decentralized-renderer-react-components";
 import { GovtechOpencertsTemplateCertificate } from "../samples";
 import { PrintWatermark } from "./common/PrintWatermark";
-import mainLogo from "./common/opencertslogo.svg";
+import mainLogo from "./common/univSC.svg";
 import logo from "./common/GOVTECH_logo.png";
 import certificateBg from "./common/certificate_background.png";
 
