@@ -1,3 +1,4 @@
+
 import { format } from "date-fns";
 import { get } from "lodash";
 import React, { FunctionComponent } from "react";
@@ -7,7 +8,7 @@ import { TemplateProps } from "@govtechsg/decentralized-renderer-react-component
 import { GovtechOpencertsTemplateCertificate } from "../samples";
 import { PrintWatermark } from "./common/PrintWatermark";
 import mainLogo from "./common/opencertslogo.svg";
-import logo from "./common/univSC.png";
+import logo from "./common/GOVTECH_logo.png";
 import certificateBg from "./common/certificate_background.png";
 
 export const CertificateTemplate: FunctionComponent<TemplateProps<GovtechOpencertsTemplateCertificate>> = ({
