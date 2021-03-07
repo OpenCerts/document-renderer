@@ -44,7 +44,7 @@ export const CertificateTemplate: FunctionComponent<TemplateProps<GovtechOpencer
           <i>has successfully completed the</i>
         </div>
         <div className="mb-4 mb-lg-5 d-flex justify-content-center cert-title" style={{ textAlign: "center" }}>
-          PhD in Sciences
+          Master in Geography  
         </div>
         <div className="mb-4 mb-lg-5 d-flex justify-content-center cert-body" style={{ textAlign: "center" }}>
           <i>certification through training administered by</i>
