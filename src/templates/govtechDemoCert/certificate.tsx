@@ -22,7 +22,7 @@ export const CertificateTemplate: FunctionComponent<TemplateProps<GovtechOpencer
         backgroundImage: `url('${certificateBg}')`,
         backgroundPosition: "center",
         backgroundSize: "cover",
-        border: "10px solid #324353"
+        //border: "10px solid #324353"
       }}
     >
       <div
