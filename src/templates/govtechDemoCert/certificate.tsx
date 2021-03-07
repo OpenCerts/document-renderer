@@ -9,7 +9,7 @@ import { GovtechOpencertsTemplateCertificate } from "../samples";
 import { PrintWatermark } from "./common/PrintWatermark";
 import mainLogo from "./common/opencertslogo.svg";
 import logo from "./common/SMARTCERT_logo.png";
-import certificateBg from "./common/certificate_background.png";
+import certificateBg from "./common/certificate_background.jpeg";
 
 export const CertificateTemplate: FunctionComponent<TemplateProps<GovtechOpencertsTemplateCertificate>> = ({
   document
