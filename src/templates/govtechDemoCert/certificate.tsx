@@ -32,7 +32,7 @@ export const CertificateTemplate: FunctionComponent<TemplateProps<GovtechOpencer
         }}
       >
         <div className="my-5 m-lg-5 text-center">
-          <img src={mainLogo} alt="OpenCerts Logo" style={{ width: "60%", height: "auto", maxWidth: "1000px" }} />
+          <img src={mainLogo} alt="OpenCerts Logo" style={{ width: "30%", height: "auto", maxWidth: "500px" }} />
         </div>
         <div className="mb-4 mb-lg-5 d-flex justify-content-center cert-body" style={{ textAlign: "center" }}>
           <i>This is to certify that</i>
