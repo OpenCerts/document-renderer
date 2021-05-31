@@ -16,7 +16,6 @@ const content1Height = `calc(${pageHeight} - ${header1Height} - ${footer1Height}
 
 const Page = styled.div`
   background: rgb(255, 255, 255);
-  background: linear-gradient(176deg, rgba(255, 255, 255, 1) 0%, rgba(240, 252, 255, 1) 100%);
   width: 21cm;
   min-height: ${pageHeight};
   margin: 1cm auto;
