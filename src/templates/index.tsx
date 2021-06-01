@@ -7,5 +7,5 @@ export const registry: TemplateRegistry<any> = {
   default: govtechDemoTemplates,
   GOVTECH_DEMO: govtechDemoTemplates,
   TESTIMONIALS: testimonialsTemplates,
-  CERTIFICATEOFAWARD: certificateOfAwardTemplates
+  CERTIFICATE_OF_AWARD: certificateOfAwardTemplates
 };

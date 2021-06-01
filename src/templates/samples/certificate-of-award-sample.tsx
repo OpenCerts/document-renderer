@@ -42,7 +42,7 @@ export const customCertificateOfAward: CertificateOfAward = {
   description:
     "Students who are within the top 10% of their school’s level and course in terms of academic performance, and have demonstrated good conduct.",
   $template: {
-    name: "CERTIFICATEOFAWARD",
+    name: "CERTIFICATE_OF_AWARD",
     type: "EMBEDDED_RENDERER",
     url: "https://demo-renderer.opencerts.io"
   },
