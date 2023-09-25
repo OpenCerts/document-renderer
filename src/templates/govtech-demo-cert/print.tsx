@@ -15,6 +15,6 @@ export const PrintTemplate: FunctionComponent<TemplateProps<GovtechOpencertsTemp
     <div style={{ pageBreakAfter: "always" }} />
     <TranscriptTemplate document={document} handleObfuscation={handleObfuscation}></TranscriptTemplate>
     <div style={{ pageBreakAfter: "always" }} />
-    <img src="/static/images/yt.png" className="container"></img>
+    <img src="/static/images/yt.png" className="w-100"></img>
   </>
 );
