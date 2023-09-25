@@ -1,7 +1,7 @@
 import { CertificateTemplate } from "./certificate";
 import { TranscriptTemplate } from "./transcript";
-import { MediaTemplate } from "./media";
 import { PrintTemplate } from "./print";
+import { MediaTemplate } from "./media";
 
 export const templates = [
   {
