@@ -2,12 +2,12 @@ version: 2
 jobs:
   build:
     docker:
-      - image: "circleci/node:lts"
+      - image: "cimg/node:lts"
     steps:
       - checkout
       - run:
           name: install
-          command: npm install
+          command: npm ci
       - run:
           name: lint
           command: npm run lint
