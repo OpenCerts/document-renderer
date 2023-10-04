@@ -44,7 +44,7 @@ module.exports = {
     ]
   },
   plugins: [
-    new webpack.EnvironmentPlugin(["NODE_ENV"]),
+    new webpack.EnvironmentPlugin(["NODE_ENV", "NET"]),
     new HtmlWebpackPlugin({
       filename: "index.html",
       template: `${__dirname}/static/index.html`
