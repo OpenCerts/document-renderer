@@ -5,18 +5,18 @@
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "dependencies": {
-    "@emotion/core": "10.0.27",
-    "@emotion/styled": "10.0.27",
-    "@govtechsg/decentralized-renderer-react-components": "2.0.3",
+    "@emotion/core": "11.0.0",
+    "@emotion/styled": "11.0.0",
+    "@govtechsg/decentralized-renderer-react-components": "3.4.3",
     "@hot-loader/react-dom": "16.10.2",
     "bootstrap": "^4.3.1",
     "date-fns": "^1.30.1",
     "debug": "4.1.1",
     "lodash": "^4.17.15",
-    "moment-timezone": "^0.5.26",
+    "moment-timezone": "^0.5.41",
     "react": "16.10.2",
     "react-dom": "16.10.2",
-    "react-hot-loader": "4.12.19"
+    "react-hot-loader": "4.13.1"
   },
   "scripts": {
     "build": "NODE_ENV=production webpack --progress --mode production",
